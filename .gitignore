@@ -1,0 +1,5 @@
+# Ignore Zip files
+*.zip
+
+# Ignore dataset directories
+*_dataset
